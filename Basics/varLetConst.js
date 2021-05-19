@@ -1,3 +1,4 @@
+
 var a = 3;
 let b = 4;
 
@@ -14,3 +15,4 @@ console.log(a,b);
 const c = 5;
 //c = 50; Constante não recebe nova atribuição.
 console.log(c);
+
